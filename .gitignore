@@ -1,0 +1,17 @@
+Cache
+CacheStorage
+ScriptCache
+"Sevice Worker"
+"Code Cache"
+CachedExtensionVSIXs
+CachedData
+Crashpad
+DawnCache
+GPUCache
+*.log
+Code/
+AutofillStates
+component_crx_cache
+google-chrome
+code
+*/GitHub Desktop/*
